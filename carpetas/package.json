@@ -1,0 +1,12 @@
+{
+  "name":"clinica-api",
+  "version":"1.0.0",
+  "private":true,
+  "dependencias":{
+    "express": "^4.21.2",
+    "mysql": "^2.28.1",
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}
+  
